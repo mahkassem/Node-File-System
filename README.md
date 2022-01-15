@@ -1,2 +1,2 @@
-# JS-Modules
-This is a simple TypeScript modules example to explain how modules works.
+# Node.js Filesystem
+This is a simple TypeScript project to demonstrate the use of file system `fs` core module.
